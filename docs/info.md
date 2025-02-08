@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Multiplies two 2 bit 2x2 matrices together using the classical Winograd algorithm
 
 ## How to test
 
-Explain how to use your project
+Utilize the given inputs and bidirectional to connect to the two input matrices, the 8 outputs are for the output matrix
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
